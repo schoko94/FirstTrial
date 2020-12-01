@@ -1,1 +1,3 @@
-I like
+I like apples.
+
+But I don't like tomatos.
